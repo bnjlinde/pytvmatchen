@@ -68,11 +68,3 @@ else:
         for key, value in x.items():
             print("{} - {}".format(key, value))
         print("\n")
-# else:
-#     counter = 0
-#     while counter < int(sys.argv[1]):
-#         match = matches[counter]
-#         for key,value in match.items():
-#             print("{} - {}".format(key, value))
-#         print("\n")
-#         counter += 1
